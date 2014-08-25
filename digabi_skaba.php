@@ -98,7 +98,7 @@ function digabi_skaba_form ($post_content) {
        if (preg_match('/\[digabi_skaba_form\]/i', $post_content)) {
            // The post/page contains our magic shortcode
 
-           $securimage_url = get_bloginfo('url')."/wp-content/plugins/digabi_skaba/securimage/securimage_show.php";
+           $securimage_url = get_bloginfo('wpurl')."/wp-content/plugins/digabi_skaba/securimage/securimage_show.php";
            
            $form_header = digabi_skaba_html_cleanup_text(get_query_var('digabi_skaba_header'));
            $form_content = digabi_skaba_html_cleanup_text(get_query_var('digabi_skaba_content'));
