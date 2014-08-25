@@ -1,0 +1,177 @@
+# Copyright (C) 2014 Digabi HW
+# This file is distributed under the same license as the Digabi HW package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Digabi HW 2014-04-22\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/digabi_hw\n"
+"POT-Creation-Date: 2014-05-31 04:00:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: digabi_hw.php:118
+msgid "Unknown status code"
+msgstr ""
+
+#: digabi_hw.php:126
+msgid "Reports of this machine"
+msgstr ""
+
+#: digabi_hw.php:140
+msgid "Basic Info"
+msgstr ""
+
+#: digabi_hw.php:156 digabi_hw.php:201
+msgid "Meets the requirements"
+msgstr ""
+
+#: digabi_hw.php:160 digabi_hw.php:205
+msgid "Does not meet the requirements"
+msgstr ""
+
+#: digabi_hw.php:170
+msgid "Search"
+msgstr ""
+
+#: digabi_hw.php:185
+msgid "Detailed Info"
+msgstr ""
+
+#: digabi_hw.php:220
+msgid "Requirements"
+msgstr ""
+
+#: digabi_hw.php:224
+msgid "Passed requirements"
+msgstr ""
+
+#: digabi_hw.php:233
+msgid "Failed requirements"
+msgstr ""
+
+#: digabi_hw.php:245
+msgid "Search devices"
+msgstr ""
+
+#. #-#-#-#-#  digabi_hw.pot (Digabi HW 2014-04-22)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: digabi_hw.php:297
+msgid "Digabi HW"
+msgstr ""
+
+#: digabi_hw.php:305
+msgid "Digabi HW Settings menu"
+msgstr ""
+
+#: digabi_hw_functions.php:75
+msgid "HW Reports"
+msgstr ""
+
+#: digabi_hw_functions.php:75
+msgid "HW Report"
+msgstr ""
+
+#: digabi_hw_functions.php:103
+msgid "Device Category"
+msgstr ""
+
+#: settings.php:52
+msgid "Manufacturer"
+msgstr ""
+
+#: settings.php:53
+msgid "Product Name"
+msgstr ""
+
+#: settings.php:54
+msgid "System Memory (Mb)"
+msgstr ""
+
+#: settings.php:55
+msgid "CPU Model"
+msgstr ""
+
+#: settings.php:56
+msgid "Network Hardware"
+msgstr ""
+
+#: settings.php:57
+msgid "Multimedia Hardware"
+msgstr ""
+
+#: settings.php:58
+msgid "Screen Resolution"
+msgstr ""
+
+#: settings.php:68
+msgid "Product SKU"
+msgstr ""
+
+#: settings.php:69
+msgid "Firmware Description"
+msgstr ""
+
+#: settings.php:70
+msgid "Firmware Vendor"
+msgstr ""
+
+#: settings.php:71
+msgid "Firmware Version"
+msgstr ""
+
+#: settings.php:72
+msgid "Firmware Capabilities"
+msgstr ""
+
+#: settings.php:73
+msgid "Multimedia Driver"
+msgstr ""
+
+#: settings.php:74
+msgid "Possible Screen Resolutions"
+msgstr ""
+
+#: settings.php:75
+msgid "Digabi Version"
+msgstr ""
+
+#: settings.php:86
+msgid "Report Counter"
+msgstr ""
+
+#: settings.php:87
+msgid "Report Status"
+msgstr ""
+
+#: settings.php:109
+msgid "This device is <b>working</b>."
+msgstr ""
+
+#: settings.php:110
+msgid "This device is <b>not working</b>."
+msgstr ""
+
+#: settings.php:111
+msgid ""
+"Note: This report is user-supplied and has not been reviewed by the MEB "
+"staff."
+msgstr ""
+
+#: settings.php:112
+msgid "This report has been reviewed by the MEB staff."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://digabi.fi"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds support for Digabi Hardware post type and metadata fields"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Matti Lattu"
+msgstr ""

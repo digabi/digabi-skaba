@@ -1,0 +1,180 @@
+# Copyright (C) 2014 Digabi HW
+# This file is distributed under the same license as the Digabi HW package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Digabi HW 2014-04-22\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/digabi_hw\n"
+"POT-Creation-Date: 2014-05-31 04:00:12+00:00\n"
+"PO-Revision-Date: 2014-06-01 11:31+0200\n"
+"Last-Translator: Matti Lattu <matti.lattu@ylioppilastutkinto.fi>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: digabi_hw.php:118
+msgid "Unknown status code"
+msgstr "Tuntematon tilakoodi"
+
+#: digabi_hw.php:126
+msgid "Reports of this machine"
+msgstr "Raportteja tästä laitteesta"
+
+#: digabi_hw.php:140
+msgid "Basic Info"
+msgstr "Perustiedot"
+
+#: digabi_hw.php:156 digabi_hw.php:201
+msgid "Meets the requirements"
+msgstr "Täyttää vaatimukset"
+
+#: digabi_hw.php:160 digabi_hw.php:205
+msgid "Does not meet the requirements"
+msgstr "Ei täytä vaatimuksia"
+
+#: digabi_hw.php:170
+msgid "Search"
+msgstr "Hae"
+
+#: digabi_hw.php:185
+msgid "Detailed Info"
+msgstr "Tarkat tiedot"
+
+#: digabi_hw.php:220
+msgid "Requirements"
+msgstr "Vaatimukset"
+
+#: digabi_hw.php:224
+msgid "Passed requirements"
+msgstr "Toteutuneet vaatimukset"
+
+#: digabi_hw.php:233
+msgid "Failed requirements"
+msgstr "Toteutumattomat vaatimukset"
+
+#: digabi_hw.php:245
+msgid "Search devices"
+msgstr "Etsi laitteita"
+
+#. #-#-#-#-#  digabi_hw.pot (Digabi HW 2014-04-22)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: digabi_hw.php:297
+msgid "Digabi HW"
+msgstr "Digabi HW"
+
+#: digabi_hw.php:305
+msgid "Digabi HW Settings menu"
+msgstr "Digabi HW Asetukset"
+
+#: digabi_hw_functions.php:75
+msgid "HW Reports"
+msgstr "Laiteraportit"
+
+#: digabi_hw_functions.php:75
+msgid "HW Report"
+msgstr "Laiteraportti"
+
+#: digabi_hw_functions.php:103
+msgid "Device Category"
+msgstr "Laiteryhmä"
+
+#: settings.php:52
+msgid "Manufacturer"
+msgstr "Valmistaja"
+
+#: settings.php:53
+msgid "Product Name"
+msgstr "Tuotenimi"
+
+#: settings.php:54
+msgid "System Memory (Mb)"
+msgstr "Keskusmuisti (Mt)"
+
+#: settings.php:55
+msgid "CPU Model"
+msgstr "Prosessorin malli"
+
+#: settings.php:56
+msgid "Network Hardware"
+msgstr "Verkkokortti"
+
+#: settings.php:57
+msgid "Multimedia Hardware"
+msgstr "Äänikortti"
+
+#: settings.php:58
+msgid "Screen Resolution"
+msgstr "Näytön tarkkuus"
+
+#: settings.php:68
+msgid "Product SKU"
+msgstr "Tuotenumero"
+
+#: settings.php:69
+msgid "Firmware Description"
+msgstr "Laiteohjelma"
+
+#: settings.php:70
+msgid "Firmware Vendor"
+msgstr "Laiteohjelman valmistaja"
+
+#: settings.php:71
+msgid "Firmware Version"
+msgstr "Laiteohjelman versio"
+
+#: settings.php:72
+msgid "Firmware Capabilities"
+msgstr "Laiteohjelman ominaisuudet"
+
+#: settings.php:73
+msgid "Multimedia Driver"
+msgstr "Äänikortin ajuri"
+
+#: settings.php:74
+msgid "Possible Screen Resolutions"
+msgstr "Mahdolliset näytön tarkkuudet"
+
+#: settings.php:75
+msgid "Digabi Version"
+msgstr "Digabi OS versio"
+
+#: settings.php:86
+msgid "Report Counter"
+msgstr "Raporttilaskuri"
+
+#: settings.php:87
+msgid "Report Status"
+msgstr "Raportin tila"
+
+#: settings.php:109
+msgid "This device is <b>working</b>."
+msgstr "Tämä laite <b>toimii</b>."
+
+#: settings.php:110
+msgid "This device is <b>not working</b>."
+msgstr "Tämä laite <b>ei toimi</b>."
+
+#: settings.php:111
+msgid ""
+"Note: This report is user-supplied and has not been reviewed by the MEB "
+"staff."
+msgstr ""
+"Huomio: Tämä raportti on käyttäjältä eikä YTL:n henkilökunta ole tarkastanut "
+"sitä."
+
+#: settings.php:112
+msgid "This report has been reviewed by the MEB staff."
+msgstr "Tämä raportti on YTL:n henkilökunnan tarkastama."
+
+#. Plugin URI of the plugin/theme
+msgid "https://digabi.fi"
+msgstr "https://digabi.fi"
+
+#. Description of the plugin/theme
+msgid "Adds support for Digabi Hardware post type and metadata fields"
+msgstr "Lisää tuen Digabi laiteraportointiin ja tarvittaviin lisäkenttiin."
+
+#. Author of the plugin/theme
+msgid "Matti Lattu"
+msgstr "Matti Lattu"
