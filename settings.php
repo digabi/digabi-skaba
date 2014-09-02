@@ -92,9 +92,9 @@ function digabi_skaba_set_global_settings () {
      * @global string $DIGABI_SKABA_CSS
      */
     $DIGABI_SKABA_CSS = '<style>'
-            .'.digabi_skaba_cell_left { color:red; } '
-            .'.digabi_skaba_cell_right { color: green; } '
-            .'.digabi_skaba_cell_wide { color: blue; } '
+            .'.digabi_skaba_cell_left { color: #444; font-weight: bold; vertical-align: top !important; } '
+            .'.digabi_skaba_cell_right { color: #444; text-align: left !important; } '
+            .'.digabi_skaba_cell_wide { color: #444; } '
             .'.digabi_skaba_legend { font-style: italic; } '
             .'</style>';
  
